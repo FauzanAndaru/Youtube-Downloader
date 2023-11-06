@@ -1,0 +1,518 @@
+('C:\\Users\\Fauzan Andaru\\OneDrive\\Documents\\youtube '
+ 'downloader\\build\\main\\PYZ-00.pyz',
+ [('_compat_pickle',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\calendar.py',
+   'PYMODULE'),
+  ('configparser',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\csv.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\inspect.py',
+   'PYMODULE'),
+  ('json',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\optparse.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('pytube',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\__init__.py',
+   'PYMODULE'),
+  ('pytube.__main__',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\__main__.py',
+   'PYMODULE'),
+  ('pytube.captions',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\captions.py',
+   'PYMODULE'),
+  ('pytube.cipher',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\cipher.py',
+   'PYMODULE'),
+  ('pytube.contrib',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('pytube.contrib.channel',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\contrib\\channel.py',
+   'PYMODULE'),
+  ('pytube.contrib.playlist',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\contrib\\playlist.py',
+   'PYMODULE'),
+  ('pytube.contrib.search',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\contrib\\search.py',
+   'PYMODULE'),
+  ('pytube.exceptions',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\exceptions.py',
+   'PYMODULE'),
+  ('pytube.extract',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\extract.py',
+   'PYMODULE'),
+  ('pytube.helpers',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\helpers.py',
+   'PYMODULE'),
+  ('pytube.innertube',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\innertube.py',
+   'PYMODULE'),
+  ('pytube.itags',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\itags.py',
+   'PYMODULE'),
+  ('pytube.metadata',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\metadata.py',
+   'PYMODULE'),
+  ('pytube.monostate',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\monostate.py',
+   'PYMODULE'),
+  ('pytube.parser',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\parser.py',
+   'PYMODULE'),
+  ('pytube.query',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\query.py',
+   'PYMODULE'),
+  ('pytube.request',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\request.py',
+   'PYMODULE'),
+  ('pytube.streams',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\streams.py',
+   'PYMODULE'),
+  ('pytube.version',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\pytube\\version.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\socket.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\threading.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\typing.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\uu.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\fauzan '
+   'andaru\\appdata\\local\\programs\\python\\python39\\lib\\zipfile.py',
+   'PYMODULE')])
